@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Interpreting Services Booking Services Install", "Interpreting Services Booking Services Install\Interpreting Services Booking Services Install.vdproj", "{8CAEADF3-C562-4A37-91BD-E0B92141ABAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CAEADF3-C562-4A37-91BD-E0B92141ABAB}.Debug|Default.ActiveCfg = Debug
+		{8CAEADF3-C562-4A37-91BD-E0B92141ABAB}.Debug|Default.Build.0 = Debug
+		{8CAEADF3-C562-4A37-91BD-E0B92141ABAB}.Release|Default.ActiveCfg = Release
+		{8CAEADF3-C562-4A37-91BD-E0B92141ABAB}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {677ABB36-7BEF-4791-862D-C83261297121}
+	EndGlobalSection
+EndGlobal
